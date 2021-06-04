@@ -144,7 +144,7 @@ ___________
  
 # Target
 
-1. Less than 7000 parameters
+1. Less than 9000 parameters
 2. Less than 15 epochs
 3. Test with Cyclic LR
 4. Add small dropout of 5%
@@ -205,7 +205,7 @@ Test set: Average loss: 0.0161, Accuracy: 9944/10000 (99.44%)
 ##  *** Bonus ***
 
  
- [Code 5](https://github.com/bharathbolla/EVA6/blob/S-5/Step_5.ipynb)
+ [Code 6](https://github.com/bharathbolla/EVA6/blob/S-5/Step_6.ipynb)
  
 # Target
 
