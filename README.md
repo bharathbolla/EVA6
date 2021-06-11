@@ -103,7 +103,7 @@ https://amaarora.github.io/2020/08/09/groupnorm.html
 
 
 ### * Layer Norm and Group Norm performed similarly and has lower misclassified images than Batch Norm. 
-### * Kayer Norm and Group Norm has exhibited consistency in test loss and accuracy  but Batch Norm has ups and downs
+### * Layer Norm and Group Norm has exhibited consistency in test loss and accuracy  but Batch Norm has ups and downs
 
 
 
