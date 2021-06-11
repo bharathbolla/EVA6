@@ -92,14 +92,17 @@ https://amaarora.github.io/2020/08/09/groupnorm.html
 ** Total wrong predictions- 71
 ![image](https://user-images.githubusercontent.com/10822997/121735958-7a812300-cb14-11eb-9f75-807ad880b9a8.png)
 
+#### Group Norm Findings
+** Total wrong predictions - 71
+![image](https://user-images.githubusercontent.com/10822997/121736413-29256380-cb15-11eb-9230-25addc167828.png)
 
 
 #### Training accuracy / Training loss  / Test accuracy / Test loss
 
+![image](https://user-images.githubusercontent.com/10822997/121736336-0eeb8580-cb15-11eb-9f05-67de648f44ef.png)
 
 
-#### 3 groups  of misclassified images
-
+### * Layer Norm and Group Norm performed similarly and has lower misclassified images than Batch Norm
 
 
 
