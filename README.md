@@ -1,5 +1,10 @@
 # Different types of Normalization <br>
 
+Group:
+* Bharath
+* Sabeesh
+* Dinesh
+* Manu
 #### Explanation of code
 
 1) The model used here is the the model trained on the MNIT dataset for the prediction of the digits in the dataset
