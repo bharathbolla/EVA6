@@ -1,3 +1,5 @@
+Team members : -Bharath Bolla, Dinesh Reddy, Sabeesh E and Manu
+
 # Different types of Normalization <br>
 
 #### Explanation of code
