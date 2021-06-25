@@ -1,5 +1,4 @@
-# EVA6
-## This repo contains assignments for EVA6 Course. This is an advanced vision course on Pytorch
+# Evaluate the utility of septhwise , dilation convolutions in Cifar10. Evaluate 
 
 # EVA6_S7 Assignment
 Team:
@@ -150,4 +149,5 @@ Analysis and Findings of the architecture <br>
 
 5.	Torch.mul() on all layers.	Multiplication of features were also experimented upon on all the layers with same dimension – same channel output. It was hypothesized that multiplying the output would result  in more exaggerated feature extraction. But however, this was proved to be incorrect. It is hence hypothesized that multiplying the features from similar output similar dimension channels will result in variation of the extracted features by a multiplicative factor. Hence some features might be over-represented while some may be under-represented. This results in distortion of learning hence reduced model performance. 
 
-
+## Take Home Message
+Replacing Maxpool layer with either stride =2 conv layers or dilation > 2 layers, there is no special gain. This results in modere model parameters but the convergence becomes slow.
